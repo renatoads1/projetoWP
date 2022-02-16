@@ -239,6 +239,7 @@ namespace CamadaDeApresentacao
             this.btnEditarDesc.TabIndex = 7;
             this.btnEditarDesc.Text = "Editar";
             this.btnEditarDesc.UseVisualStyleBackColor = true;
+            this.btnEditarDesc.Click += new System.EventHandler(this.btnEditarDesc_Click);
             // 
             // btnSalvarDesc
             // 

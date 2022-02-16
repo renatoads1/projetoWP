@@ -176,7 +176,12 @@ namespace CamadaDeApresentacao
             this.txtIdCategoria.Text = this.dataLista.CurrentRow.Cells[1].Value.ToString();
             this.txtNomeCategoria.Text = this.dataLista.CurrentRow.Cells[2].Value.ToString();
             this.txtDescricaoCategoria.Text = this.dataLista.CurrentRow.Cells[3].Value.ToString();
-            
+            this.tabControl1.SelectedIndex = 1;
+        }
+
+        private void btnEditarDesc_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
