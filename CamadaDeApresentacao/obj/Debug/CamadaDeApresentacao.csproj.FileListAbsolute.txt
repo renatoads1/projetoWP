@@ -1,0 +1,14 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\bin\Debug\CamadaDeApresentacao.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\bin\Debug\CamadaDeApresentacao.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\bin\Debug\CamadaNegocios.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\bin\Debug\CamadaDeDados.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\bin\Debug\CamadaNegocios.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\bin\Debug\CamadaDeDados.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\bin\Debug\CamadaDeDados.dll.config
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\obj\Debug\CamadaDeApresentacao.csproj.AssemblyReference.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\obj\Debug\CamadaDeApresentacao.frmCategoria.resources
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\obj\Debug\CamadaDeApresentacao.csproj.GenerateResource.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\obj\Debug\CamadaDeApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\obj\Debug\CamadaDeApresentacao.csproj.CopyComplete
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\obj\Debug\CamadaDeApresentacao.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeApresentacao\obj\Debug\CamadaDeApresentacao.pdb

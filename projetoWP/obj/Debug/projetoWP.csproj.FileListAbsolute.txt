@@ -1,0 +1,17 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\projetoWP.exe.config
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\projetoWP.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\projetoWP.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\CamadaDeApresentacao.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\CamadaDeApresentacao.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\obj\Debug\projetoWP.csproj.AssemblyReference.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\obj\Debug\projetoWP.Properties.Resources.resources
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\obj\Debug\projetoWP.csproj.GenerateResource.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\obj\Debug\projetoWP.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\obj\Debug\projetoWP.csproj.CopyComplete
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\obj\Debug\projetoWP.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\obj\Debug\projetoWP.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\CamadaNegocios.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\CamadaDeDados.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\CamadaNegocios.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\CamadaDeDados.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\projetoWP\bin\Debug\CamadaDeDados.dll.config

@@ -1,0 +1,10 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\bin\Debug\CamadaDeDados.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\bin\Debug\CamadaDeDados.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\bin\Debug\CamadaDeDados.dll.config
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\obj\Debug\CamadaNegocios.csproj.AssemblyReference.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\obj\Debug\CamadaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\obj\Debug\CamadaNegocios.csproj.CopyComplete
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaNegocios\obj\Debug\CamadaNegocios.pdb

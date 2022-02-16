@@ -1,0 +1,7 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeDados\bin\Debug\CamadaDeDados.dll.config
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeDados\bin\Debug\CamadaDeDados.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeDados\bin\Debug\CamadaDeDados.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.AssemblyReference.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeDados\obj\Debug\CamadaDeDados.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\projetoWP\CamadaDeDados\obj\Debug\CamadaDeDados.pdb
